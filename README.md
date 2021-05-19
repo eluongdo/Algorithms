@@ -1,3 +1,3 @@
 # Algorithms
 
-# Learning some Algorithms
+Learning some Algorithms
